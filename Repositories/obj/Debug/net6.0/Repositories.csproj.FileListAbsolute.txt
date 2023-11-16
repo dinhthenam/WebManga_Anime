@@ -1,0 +1,17 @@
+D:\Summer2023\PRN221\WebBookStore\Repositories\bin\Debug\net6.0\Repositories.deps.json
+D:\Summer2023\PRN221\WebBookStore\Repositories\bin\Debug\net6.0\Repositories.dll
+D:\Summer2023\PRN221\WebBookStore\Repositories\bin\Debug\net6.0\Repositories.pdb
+D:\Summer2023\PRN221\WebBookStore\Repositories\bin\Debug\net6.0\BusinessObject.dll
+D:\Summer2023\PRN221\WebBookStore\Repositories\bin\Debug\net6.0\DataAccess.dll
+D:\Summer2023\PRN221\WebBookStore\Repositories\bin\Debug\net6.0\BusinessObject.pdb
+D:\Summer2023\PRN221\WebBookStore\Repositories\bin\Debug\net6.0\DataAccess.pdb
+D:\Summer2023\PRN221\WebBookStore\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+D:\Summer2023\PRN221\WebBookStore\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Summer2023\PRN221\WebBookStore\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+D:\Summer2023\PRN221\WebBookStore\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+D:\Summer2023\PRN221\WebBookStore\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+D:\Summer2023\PRN221\WebBookStore\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+D:\Summer2023\PRN221\WebBookStore\Repositories\obj\Debug\net6.0\Repositories.dll
+D:\Summer2023\PRN221\WebBookStore\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+D:\Summer2023\PRN221\WebBookStore\Repositories\obj\Debug\net6.0\Repositories.pdb
+D:\Summer2023\PRN221\WebBookStore\Repositories\obj\Debug\net6.0\ref\Repositories.dll

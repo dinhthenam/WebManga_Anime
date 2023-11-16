@@ -1,0 +1,14 @@
+D:\Summer2023\PRN221\WebBookStore\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+D:\Summer2023\PRN221\WebBookStore\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+D:\Summer2023\PRN221\WebBookStore\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+D:\Summer2023\PRN221\WebBookStore\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+D:\Summer2023\PRN221\WebBookStore\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+D:\Summer2023\PRN221\WebBookStore\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Summer2023\PRN221\WebBookStore\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+D:\Summer2023\PRN221\WebBookStore\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+D:\Summer2023\PRN221\WebBookStore\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\Summer2023\PRN221\WebBookStore\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+D:\Summer2023\PRN221\WebBookStore\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+D:\Summer2023\PRN221\WebBookStore\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+D:\Summer2023\PRN221\WebBookStore\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+D:\Summer2023\PRN221\WebBookStore\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll

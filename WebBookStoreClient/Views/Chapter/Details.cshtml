@@ -1,0 +1,39 @@
+﻿@using BusinessObject.Models;
+@model Chapter;
+@{
+    ViewData["Header"] = "";
+    var image = ViewData["Image"] as List<String>;
+    
+
+}
+<h2>Chapter Details</h2>
+
+@if (Model != null)
+{
+    <div>
+        <h4>Chapter Information</h4>
+        
+    </div>
+
+    <div>
+        <h4>Chapter Images</h4>
+        <hr />
+
+        <div>
+            @foreach (var imageUrl in image)
+            {
+                <img src="@imageUrl" alt="Chapter Image"  />
+            }
+        </div>
+        <img src="~/images/WebBookStore/Book/OnePiece/Chap1/1.jpg">
+    </div>
+}
+else
+{
+    <p>Chapter not found.</p>
+}
+
+<div>
+    <a asp-action="Index">Back to Chapter List</a>
+</div>
+

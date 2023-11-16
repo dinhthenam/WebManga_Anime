@@ -1,0 +1,15 @@
+D:\Summer2023\PRN221\WebBookStore\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\Summer2023\PRN221\WebBookStore\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Summer2023\PRN221\WebBookStore\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\Summer2023\PRN221\WebBookStore\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\Summer2023\PRN221\WebBookStore\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Summer2023\PRN221\WebBookStore\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\Summer2023\PRN221\WebBookStore\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\Summer2023\PRN221\WebBookStore\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\Summer2023\PRN221\WebBookStore\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+D:\Summer2023\PRN221\WebBookStore\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+D:\Summer2023\PRN221\WebBookStore\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\Summer2023\PRN221\WebBookStore\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\Summer2023\PRN221\WebBookStore\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\Summer2023\PRN221\WebBookStore\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\Summer2023\PRN221\WebBookStore\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
